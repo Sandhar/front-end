@@ -1,0 +1,89 @@
+.main-navbar{
+	padding-top:  1.5rem!important;
+}
+
+.hero-contact{
+	margin: auto 350px auto 350px;
+
+}
+
+.myfont{
+	font-family: 'Acme', sans-serif;
+}
+
+.first{
+	text-shadow: lightblue 1px 0 2px!important;
+}
+
+.color-even{
+	/*background: #546a7b!important;*/
+	background: url(images/cool3.png) ;
+}
+
+.color-odd{
+	background: url(images/patt.png) ;
+    background-size: 256px 256px!important, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+    color: white!important;
+}
+
+.title{
+	color: white!important;
+	text-shadow: 2px 2px grey;
+}
+
+.subtitle{
+	color: white!important;
+	is-3;
+}
+
+strong{
+	color: white!important;
+}
+
+td{
+	color: white!important;
+}
+
+table{
+	background: transparent!important;
+}
+
+h3{
+	font-size: 18px!important;
+}
+
+.menu{
+	margin-left: 1em;padding: 0 1em 0.5em 0;border-width: 1px; border-color: transparent; border-style:solid;
+	font-family: 'Acme', sans-serif;
+	text-shadow: #FC0 1px 0 10px!important;
+	font-size: 20px;
+}
+
+/* Style the header: fixed position (always stay at the top) */
+.header {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+
+/* The progress container (black background) */
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: black;
+}
+
+/* The progress bar (scroll indicator) */
+.progress-bar {
+  height: 10px;
+  background: #4caf50;
+  width: 0%;
+}
+
+.center{
+	text-align: center;
+}
